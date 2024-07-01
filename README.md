@@ -1,1 +1,1 @@
-Comming soon
+Access the site at https://realcontrolandpower.tech
