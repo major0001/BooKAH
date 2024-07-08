@@ -1,4 +1,4 @@
-# Online Library Management System (BookaH)
+# Online Library Management System (BooKAH)
 
 ## About BooKAH
 Streamlining Library Operations with Enhanced User Experience
