@@ -19,7 +19,7 @@ The Online Library Management System (BookaH) aims to automate library operation
 ## Progress
 
 ### Rating
-I would rate my progress this week at 8 out of 10.
+Almost halfway done.
 
 ### Measurement
 Progress is measured based on the completion of foundational tasks:
