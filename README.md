@@ -103,7 +103,7 @@ Progress is measured based on the completion of foundational tasks:
 - [Library Management System](https://vinitshahdeo.github.io/Library-Management-System/)
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
 
 ## Contact Information
 - **Author**: Alex Wambua
